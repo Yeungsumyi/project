@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Background of Digital Camera Development</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin: 0;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+      margin: 20px 0;
+      padding: 0 20px;
+    }
+
+    .cta-button {
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      cursor: pointer;
+      font-size: 20px;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Background of Digital Camera Development</h1>
+  </header>
+
+  <main>
+    <p>
+      Photography has undoubtedly been transformed by digital cameras. In 1975, Kodak stunned the world by debuting the first digital camera. Weighing around 3.6kg, it took 23 seconds to take a low-resolution picture. Just imagine your entire family posing and smiling for such an extended period of time, it must have been a difficult job.
+    </p>
+    <p>
+      Fast forward to today, and thanks to advanced technology, cameras have significantly improved in terms of speed, resolution, low-light performance, connectivity, and other areas. Digital cameras are essential in many fields these days, especially for journalists who depend on them to take high-resolution images in real-time so stories can be reported quickly, scientists who capture objects in astronomy and record seconds or days of details for their studies.
+    </p>
+    <p>
+      As we dig deeper into the topic, we will explore the architecture of independent and dependent cameras, highlighting their merits and demerits, as well as their application in various industries of the economy.
+    </p>
+    <p>
+      Are you prepared for this amazing adventure? If yes, say cheese!
+    </p>
+    <a href="#" class="cta-button">Say Cheese!</a>
+  </main>
+</body>
+</html>
